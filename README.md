@@ -1,4 +1,6 @@
-<center> <h1>Ghosty</h1> </center>
+<div align="center">
+  <h1>Ghosty</h1>
+</div>
 
 # Main Links
 
