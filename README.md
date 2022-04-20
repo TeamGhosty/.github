@@ -1,7 +1,4 @@
-<p align="center">
-  # Ghosty
-</p>
-
+<center> <h1>Ghosty</h1> </center>
 # Main Links
 
 - ### [🌐 Website](WIP): Ghosty's website
