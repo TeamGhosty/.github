@@ -1,8 +1,8 @@
 # Main Links
 
 - ### [🌐 Website](WIP): Ghosty's website
-- ### [☕ Donate to Ghosty](WIP): Help by supporting the project
-- ### [🔧 Developer Documentation](WIP): Docs for developers
+- - ### [🔧 Developer Documentation](WIP): Docs for developers
+- ### [☕ Donate to Ghosty](WIP): Help us by supporting the project
 
 # Download Links
 
