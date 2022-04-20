@@ -1,7 +1,3 @@
-<div align="center">
-  <h1>Ghosty</h1>
-</div>
-
 # Main Links
 
 - ### [🌐 Website](WIP): Ghosty's website
